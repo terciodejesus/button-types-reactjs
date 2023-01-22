@@ -1,6 +1,6 @@
 # Buttons Type Reactjs
 
-This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev). Check the demo <ins>[here](https://to-do-list-reactjs-eta.vercel.app/)</ins>
+This is a [React](https://reactjs.org) + [TypeScript](https://www.typescriptlang.org/) boilerplate built with [Vite](https://vitejs.dev). Check the demo <ins>[here](https://button-types-reactjs.vercel.app/)</ins>
 
 ## What's inside?
 
